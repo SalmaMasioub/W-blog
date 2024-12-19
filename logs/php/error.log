@@ -1,0 +1,7 @@
+[17-Dec-2024 19:16:28 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\salma\Local Sites\w-blog\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[17-Dec-2024 19:16:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\salma\Local Sites\w-blog\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[17-Dec-2024 19:28:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\salma\Local Sites\w-blog\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php on line 182
+[17-Dec-2024 19:28:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\salma\Local Sites\w-blog\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[18-Dec-2024 12:12:54 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\salma\Local Sites\w-blog\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[18-Dec-2024 14:12:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\salma\Local Sites\w-blog\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[19-Dec-2024 20:10:45 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\salma\Local Sites\w-blog\app\public\wp-includes\class-wp-customize-widgets.php on line 923
